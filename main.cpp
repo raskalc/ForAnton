@@ -4,7 +4,7 @@
 #include "task4.cpp"
 #include "task5.cpp"
 
-// 2 + 4 not completed
+// 4 not completed
 
 int main(int argc, char *argv[]){
     task2(argc, argv);
