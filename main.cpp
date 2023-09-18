@@ -4,9 +4,15 @@
 #include "task4.cpp"
 #include "task5.cpp"
 
-// 4 not completed
 
+// Решения были разделены по файлам для удобства чтения кода
+// Для запуска программ надо использовать mpiexec -n 4 projectMPI.exe
+// После выбора каждой таски обязательно надо пересобрать проект!
 int main(int argc, char *argv[]){
-    task4(argc, argv);
+    task1(argc, argv);
+//    task2(argc, argv);
+//    task3(argc, argv);
+//    task4(argc, argv);
+//    task5(argc, argv);
     return 0;
 }
