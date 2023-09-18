@@ -12,6 +12,6 @@ set(CMAKE_EXE_LINKER_FLAGS "-static")
 include_directories(${MPI_INCLUDE_PATH})
 
 # Link your executable with MPI libraries
-
 add_executable(projectMPI main.cpp main.cpp)
+
 target_link_libraries(projectMPI ${MPI_C_LIBRARIES} ${MPI_CXX_LIBRARIES})
