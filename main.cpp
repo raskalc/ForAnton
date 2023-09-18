@@ -7,6 +7,6 @@
 // 4 not completed
 
 int main(int argc, char *argv[]){
-    task2(argc, argv);
+    task4(argc, argv);
     return 0;
 }
