@@ -1,3 +1,0 @@
-C:/Users/main/Desktop/fe/devel/CLionProjects/MPI/cmake-build-release/CMakeFiles/projectMPI.dir
-C:/Users/main/Desktop/fe/devel/CLionProjects/MPI/cmake-build-release/CMakeFiles/edit_cache.dir
-C:/Users/main/Desktop/fe/devel/CLionProjects/MPI/cmake-build-release/CMakeFiles/rebuild_cache.dir
